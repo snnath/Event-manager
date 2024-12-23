@@ -1,4 +1,4 @@
-# Event Management API
+# Event Management Dashboard
 
 This project provides the backend API for an Event Management Dashboard. It allows users to manage events, attendees, and tasks, making it easier to organize and track various aspects of events. The dashboard provides functionalities to create, view, update, and delete events, as well as assign tasks to attendees.
 
